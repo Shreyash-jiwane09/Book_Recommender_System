@@ -5,7 +5,7 @@ PyYAML
 streamlit
 matplotlib
 seaborn 
-tensorflow
+#tensorflow
 dotenv
 pymongo
 
