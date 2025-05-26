@@ -1,0 +1,12 @@
+scikit-learn 
+pandas 
+numpy
+PyYAML
+streamlit
+matplotlib
+seaborn 
+tensorflow
+dotenv
+pymongo
+
+# -e .
